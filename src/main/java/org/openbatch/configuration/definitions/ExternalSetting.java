@@ -1,4 +1,4 @@
-package org.openbatch.configuration.dataobjects;
+package org.openbatch.configuration.definitions;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
